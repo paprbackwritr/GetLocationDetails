@@ -3,5 +3,5 @@ GetLocationDetails
 
 Get parent location details (City, State, Country)
 
-| prasenjitsharan.com | 
-| Bangalore, IN |
+Input: Address (bascially a PIN/ZIP code or any part of the address)
+Output: City, State and Country names
